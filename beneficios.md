@@ -1,4 +1,6 @@
+<p style="font-size:20px; font-family:Comic Sans MS; color:hotpink;">
 # 🌸Beneficios del Control de Versiones🌸
+</p>
 
 El **control de versiones** es una práctica esencial en el desarrollo de software que permite **registrar, administrar y supervisar los cambios realizados en el código fuente** a lo largo del tiempo. Facilita la colaboración entre varios desarrolladores y ayuda a mantener un historial ordenado de modificaciones.
 
