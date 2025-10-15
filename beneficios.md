@@ -10,7 +10,8 @@ El **control de versiones** es una práctica esencial en el desarrollo de softwa
 📌 **Ramas (branches):** Facilitan experimentar con nuevas ideas sin afectar la versión principal.  
 📌 **Seguridad:** El código se almacena en repositorios remotos (como GitHub), lo que evita pérdidas locales.
 
-<p style="color:hotpink; font-weight:bold;">✨Ejemplos reales o casos de uso✨</p>
+<p style="color:hotpink; font-weight:bold;">
+   ## ✨Ejemplos reales o casos de uso✨</p>
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
