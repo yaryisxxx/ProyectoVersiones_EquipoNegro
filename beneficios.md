@@ -23,5 +23,3 @@ El **control de versiones** es una práctica esencial en el desarrollo de softwa
 
 3. **Trabajo académico y educativo:**  
    Estudiantes y docentes usan GitHub para entregar tareas, practicar control de versiones y compartir código en equipo.
-
-![Decoración](https://example.com/imagen-linda.png)
